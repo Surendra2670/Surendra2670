@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surendra
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning C# .Net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
